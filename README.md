@@ -1,6 +1,6 @@
 # Numerical Barren Plateau Detection
 
-Code to reproduce the numerical results and graphs from my MSc thesis.
+Code to reproduce the numerical results and graphs from my [MSc thesis](https://arxiv.org/abs/2210.11523).
 
 
 ## Building
